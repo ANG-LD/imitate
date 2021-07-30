@@ -1,0 +1,22 @@
+### Backup ###
+*.bak
+*.gho
+*.ori
+*.orig
+*.tmp
+
+#log
+*.log
+
+#env
+*.env
+.env.*
+dist
+
+#test
+*test
+*tmp
+*temp
+
+/vendor/
+/Godeps/
